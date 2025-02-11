@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="gray_pastel1">#867070</color>
+    <color name="light_font">#E0FFFF</color>
+    <color name="disabled_text_button">#CBE0FFFF</color>
+    <color name="green_pastel">#7ADE7A</color>
+    <color name="green_pastels">#37FF37</color>
+    <color name="pastel_orange">#ffc067</color>
+    <color name="pastel_red">#ff746c</color>
+    <color name="pastel_gray">#A59D84</color>
+    <color name="pastel_blue">#98A8F8</color>
+</resources>
